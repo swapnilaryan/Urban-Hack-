@@ -1,0 +1,16 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:padding="@dimen/widget_margin"
+    android:id="@+id/widget">
+
+    <TextView android:id="@+id/appwidget_text" android:layout_width="350dp"
+        android:layout_height="350dp"
+
+        android:src="@mipmap/alert"
+        android:textColor="#ffffff" android:textSize="24sp" android:textStyle="bold|italic"
+        android:contentDescription="@string/appwidget_text"
+        android:background="@mipmap/alert"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

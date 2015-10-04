@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ColorPrimary">#39B7CD</color>
+    <color name="ColorPrimaryDark">#E0EEEE</color>
+    <color name="Colorb">#BBFFFF</color>
+    <color name="one">#08000000</color>
+    <color name="two">#09000000</color>
+    <color name="three">#10000000</color>
+    <color name="four">#11000000</color>
+    <color name="five">#12000000</color>
+    <color name="six">#13000000</color>
+    <color name="seven">#14000000</color>
+    <color name="eight">#15000000</color>
+    <color name="black">#000    </color>
+
+
+
+</resources>
